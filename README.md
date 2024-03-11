@@ -20,6 +20,7 @@ El desarrollo de cada pregunta se encuentra en los siguientes minutos y segundos
 -Pregunta 2: 01:25
 
 -Pregunta 3: 02:19
+
 -Pregunta 4: 02:41
 
 -Pregunta 5: 04:01
@@ -379,7 +380,7 @@ VALUES
     );
 ```
 
-La data de la tabla respuestas la he creado en base al siguiente diagrama:
+La data de la tabla **respuestas** la he creado en base al siguiente diagrama:
 
 ```sql
 /*
