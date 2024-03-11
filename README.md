@@ -2,6 +2,4 @@
 
 [![Video Desarrollo Prueba](./screenshots/thumb_video.webp)](/video_prueba.mp4)
 
-<video style='aspect-ratio:16/9;width:100%' controls>
-  <source src="./video_prueba.mp4" type="video/mp4">
-</video>
+<iframe style="aspect-ratio:16/9;width:100%" src="https://vimeo.com/922130771" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
