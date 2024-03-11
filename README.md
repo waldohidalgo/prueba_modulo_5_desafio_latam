@@ -539,11 +539,11 @@ ALTER TABLE usuarios
 ADD COLUMN email VARCHAR UNIQUE;
 ```
 
-Previa añadidura de la columna **email** las restricciones de la tabla **usuarios** son las siguientes:
+Previa añadidura de la columna **email**, la tabla **usuarios** posee las siguientes columnas:
 
 ![Constraints Tabla Usuarios Previo Email](./screenshots/modelo2/pregunta_10_sin_email.jpg)
 
-Post añadidura de la columna **email** las restricciones de la tabla **usuarios** son las siguientes:
+Post añadidura de la columna **email**, la tabla **usuarios** posee las siguientes columnas:
 
 ![Constraints Tabla Usuarios Previo Email](./screenshots/modelo2/pregunta_10_con_email.jpg)
 
