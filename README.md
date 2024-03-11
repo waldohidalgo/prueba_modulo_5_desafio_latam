@@ -16,14 +16,22 @@ A continuación muestro un preview del video el cual es un gif con los primeros 
 El desarrollo de cada pregunta se encuentra en los siguientes minutos y segundos:
 
 -Pregunta 1: 00:31
+
 -Pregunta 2: 01:25
+
 -Pregunta 3: 02:19
 -Pregunta 4: 02:41
+
 -Pregunta 5: 04:01
+
 -Pregunta 6: 04:54
+
 -Pregunta 7: 05:20
+
 -Pregunta 8: 05:44
+
 -Pregunta 9: 06:34
+
 -Pregunta 10: 07:07
 
 Ahora procedo a explicar cada una de mis soluciones a cada pregunta:
